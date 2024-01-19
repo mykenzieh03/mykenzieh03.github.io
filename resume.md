@@ -3,6 +3,9 @@
 mhirat@uw.edu
 
 [Portfilo](https://arcg.is/1Kf0890)
+[linkedin](www.linkedin.com/in/mykenzie-h-267945213)
+[University Home Page](https://www.washington.edu/)
+[Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 #### Summary
 
@@ -44,8 +47,3 @@ mhirat@uw.edu
 -	**Highly productive** and self-driven, consistently exceeding expectations in tasks, such as reviewing and entering over 450 permits into the database. Sets personal goals to ensure quality, accuracy, and productivity in repetitive tasks.
 
 ![alt text](https://media.istockphoto.com/id/871802194/photo/smiling-young-female-entrepreneur-working-on-a-laptop-at-home.jpg?s=612x612&w=0&k=20&c=cfYIc4SLau5iuCVWPVHtK9FcyfgapsIW5D7dPP4KbE0=)
-
-
-[linkedin]: www.linkedin.com/in/mykenzie-h-267945213
-[University Home Page]: https://www.washington.edu/
-[Wordle]: https://www.nytimes.com/games/wordle/index.html
