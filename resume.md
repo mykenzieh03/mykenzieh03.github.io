@@ -15,7 +15,7 @@ mhirat@uw.edu
 
 **GIS/LiDAR and Operational Technology Specialist** (September 2023 – Current)
 
-Summary of your role
+> Summary of your role
 
 - **Proficiently** operated LiDAR equipment and software to collect and process field data, resulting in the creation of accurate 3D models of the Seattle Campus. These models served as critical references for space and system documentation.
 - **Employed** operational technology tool to comprehensively document building automation and utility management systems, contributing to the formulation for long-term strategy for a _“smart”_ campus that optimizes resource utilization.
@@ -26,7 +26,7 @@ Summary of your role
 
 **Undergraduate Research Fellow** (June – August 2023)
 
-Summary of your role
+> Summary of your role
 
 - **Conducted** extensive community outreach efforts, engaging with companies and individuals directly affected by the CHOP, which led to a productive dialogue with the co-founder of Hugo House. This interaction resulted in invaluable suggestions for our archival map, enriching its content and relevance.
 - **Assisted** with website functionality through the implementation of JavaScript and HTML, ensuring visibility of comments, introducing collapsible panels, and optimizing compatibility for mobile devices.
@@ -37,14 +37,15 @@ Summary of your role
 
 **Tree Tracking Intern** (March – September 2023)
 
-Summary of your role
+> Summary of your role
 
 -	**Utilize** experience in reading, interpreting, and verifying information from various sources like plan sets, as-built drawings, architectural drawings, surveys, arborist reports, landscape sheets, sketches, and maps.
 -	**Proven ability** to quickly grasp and apply new concepts, demonstrating strong analytical skills to enhance database functionality and address broader societal concerns within the GIS domain.
 -	**Highly productive** and self-driven, consistently exceeding expectations in tasks, such as reviewing and entering over 450 permits into the database. Sets personal goals to ensure quality, accuracy, and productivity in repetitive tasks.
 
+![alt text](https://media.istockphoto.com/id/871802194/photo/smiling-young-female-entrepreneur-working-on-a-laptop-at-home.jpg?s=612x612&w=0&k=20&c=cfYIc4SLau5iuCVWPVHtK9FcyfgapsIW5D7dPP4KbE0=)
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[linkedin]: www.linkedin.com/in/mykenzie-h-267945213
+[University Home Page]: https://www.washington.edu/
+[Wordle]: https://www.nytimes.com/games/wordle/index.html
